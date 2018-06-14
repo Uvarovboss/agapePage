@@ -239,7 +239,7 @@ textarea{
 }
 @media screen and (max-width: 400px){
 	form{
-		margin-left: 55px;
+		margin-left: 35px;
 	}
 	textarea{
 		width: 250px;
@@ -254,7 +254,7 @@ textarea{
 }
 @media screen and (max-width: 320px){
 	form{
-		margin-left: 50px;
+		margin-left: 20px;
 	}
 	textarea{
 		width: 250px;
