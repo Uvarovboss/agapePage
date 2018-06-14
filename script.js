@@ -1,0 +1,1 @@
+var img1 = document.getElementById('img1').style.color = "red";
